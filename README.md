@@ -11,7 +11,7 @@
 - {{x}}双花括号数据绑定
 - vm-bind="css属性:值" bind绑定css属性
 
-##2、示例dome(详细见dist/index.html)
+## 2、示例dome(详细见dist/index.html)
 ### （1）js
 ```javascript
 new viewModel({
@@ -100,7 +100,7 @@ new viewModel({
 	<p>上述指令和结合在一起使用</p>
 </div>
 ```
-##3、 目录结构
+## 3、 目录结构
 
 ------------
 **mvvm**
