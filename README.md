@@ -106,9 +106,9 @@ new viewModel({
 **mvvm**
 - **src**
 &nbsp;vm.js--------创建VM对象，初始化数据
-&nbsp;compile.js---数据绑定模块
+&nbsp;compile.js---dom编译模块
 &nbsp;directive.js--指令模块
-&nbsp;convert.js---dom编译模块
+&nbsp;convert.js---数据劫持模块
 &nbsp;index.html--示例dome
 - **dist**
 &nbsp;vm.js--------打包压缩后的js
